@@ -36,6 +36,14 @@ License
 # Website link
 ## link -http://restro.42web.io
 
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone 
+
+
 
 # Acknowledgments
 
