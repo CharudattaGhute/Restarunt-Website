@@ -1,4 +1,4 @@
-# Restarunt-Website
+# Restaruant-Website
 Welcome to the Restaurant website repository! This website is designed to provide information and reviews about Restaurant and its food offerings.
 
 # Technologies Used
