@@ -33,6 +33,11 @@ Push to the branch (git push origin feature/new-feature).
 Create a new Pull Request.
 License
 
+# Acknowledgments
+
+Special thanks to Bootstrap for providing the framework for building responsive websites.
+
+
 # Website link
 ## link -http://restro.42web.io
 
@@ -45,7 +50,4 @@ git clone https://github.com/CharudattaGhute/Restarunt-Website.git
 
 
 
-# Acknowledgments
-
-Special thanks to Bootstrap for providing the framework for building responsive websites.
 
