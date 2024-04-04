@@ -8,7 +8,7 @@ Welcome to the Restaurant website repository! This website is designed to provid
 - HTML
 - CSS
 - Bootstrap
-- JavaScript
+
   
 # Features
 
