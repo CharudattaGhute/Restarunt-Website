@@ -52,5 +52,7 @@ Special thanks to Bootstrap for providing the framework for building responsive 
 git clone https://github.com/CharudattaGhute/Restarunt-Website.git
 
 
+# License
 
+This project is licensed under the MIT License. See the LICENSE file for details.
 
