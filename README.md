@@ -56,9 +56,8 @@ https://github.com/CharudattaGhute/Restarunt-Website/assets/122104600/3cadfe70-2
 
 ```bash
 git clone https://github.com/CharudattaGhute/Restarunt-Website.git
-
+```
 
 # License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
 
